@@ -1,0 +1,30 @@
+ONE:
+company name/logo
+details about service
+social media
+
+
+TWO:
+customer support
+press
+careers
+legal
+
+THREE:
+about us
+contact us
+team
+blog
+features
+
+FIVE:
+download app icons
+
+SUB FOOTER:
+language
+copyright
+
+
+What's different?
+Help center
+Resources = Blog, Download, FAQ
